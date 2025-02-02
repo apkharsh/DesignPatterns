@@ -1,6 +1,6 @@
-package OBSERVER_DSP_GOODCODE.Factory.impl;
+package OBSERVER_DSP_GOODCODE.DataHandler.impl;
 
-import OBSERVER_DSP_GOODCODE.Factory.DataHandler;
+import OBSERVER_DSP_GOODCODE.DataHandler.DataHandler;
 import OBSERVER_DSP_GOODCODE.Factory.DataHandlerStrategyFactory;
 import OBSERVER_DSP_GOODCODE.POJO.Data;
 
