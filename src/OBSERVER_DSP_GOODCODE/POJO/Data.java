@@ -1,4 +1,4 @@
 package OBSERVER_DSP_GOODCODE.POJO;
 
-public class Data {
+public abstract class Data {
 }
